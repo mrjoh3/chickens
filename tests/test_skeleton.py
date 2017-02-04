@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import pytest
-from chicken_door.skeleton import fib
+from chickens.skeleton import fib
 
 __author__ = "Matt Johnson"
 __copyright__ = "Matt Johnson"

@@ -1,8 +1,8 @@
 ============
-chicken_door
+chickens
 ============
 
-This is the documentation of **chicken_door**.
+This is the documentation of **chickens**.
 
 .. note::
 
