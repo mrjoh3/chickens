@@ -1,4 +1,6 @@
 # Add your requirements here like:
 # numpy
 # scipy>=0.9
-
+RPi
+pololu_drv8835_rpi
+smtplib
